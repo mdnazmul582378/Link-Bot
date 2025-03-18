@@ -2,11 +2,17 @@
   {
     "id": "1",
     "title": "KGF Chapter 2",
-    "link": "https://example.com/kgf2"
+    "year": "2022",
+    "genre": "Action, Thriller",
+    "link": "https://example.com/kgf2",
+    "poster": "https://i.ibb.co/3RCvJ1t/kgf2.jpg"
   },
   {
     "id": "2",
-    "title": "Animal (2023)",
-    "link": "https://example.com/animal"
+    "title": "Animal",
+    "year": "2023",
+    "genre": "Action, Drama",
+    "link": "https://example.com/animal",
+    "poster": "https://i.ibb.co/4S3FYV2/animal.jpg"
   }
 ]
