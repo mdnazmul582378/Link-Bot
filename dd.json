@@ -1,0 +1,7 @@
+[
+  {"id":"1", "title":"KGF Chapter 2", "year":"2022", "genre":"Action, Thriller", "link":"https://example.com/kgf2", "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmU2ivaxO1D3o4txDVcHEEvjjjY8XdnkF9qg&usqp=CAU"},
+  
+  {"id":"2", "title":"Animal", "year":"2023", "genre":"Action, Drama", "link":"https://example.com/animal", "poster":"https://i.ytimg.com/vi/Xbizke4zftY/maxresdefault.jpg"},
+  
+  {"id":"3", "title":"Jawan", "year":"2023", "genre":"Action, Drama", "link":"https://example.com/jawan", "poster":"https://upload.wikimedia.org/wikipedia/en/4/4f/Jawan_film_poster.jpg"}
+]
