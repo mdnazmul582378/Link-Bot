@@ -1,7 +1,21 @@
 [
-  {"id":"1", "title":"KGF Chapter 2", "year":"2022", "genre":"Action, Thriller", "link":"https://example.com/kgf2", "poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmU2ivaxO1D3o4txDVcHEEvjjjY8XdnkF9qg&usqp=CAU"},
-  
-  {"id":"2", "title":"Animal", "year":"2023", "genre":"Action, Drama", "link":"https://example.com/animal", "poster":"https://i.ytimg.com/vi/Xbizke4zftY/maxresdefault.jpg"},
-  
-  {"id":"3", "title":"Jawan", "year":"2023", "genre":"Action, Drama", "link":"https://example.com/jawan", "poster":"https://upload.wikimedia.org/wikipedia/en/4/4f/Jawan_film_poster.jpg"}
+{"id":"Animal-2023", "title":"Animal", "year":"2023", "genre":"Action, Drama", "link":"https://example.com/animal", "poster":"https://i.ytimg.com/vi/Xbizke4zftY/maxresdefault.jpg"},
+
+{"id":"Jawan-2023", "title":"Jawan", "year":"2023", "genre":"Action, Thriller", "link":"https://example.com/jawan", "poster":"https://upload.wikimedia.org/wikipedia/en/4/4f/Jawan_film_poster.jpg"},
+
+{"id":"Salaar-2023", "title":"Salaar", "year":"2023", "genre":"Action, Adventure", "link":"https://example.com/salaar", "poster":"https://upload.wikimedia.org/wikipedia/en/6/6e/Salaar_Teaser_Poster.jpg"},
+
+{"id":"Fighter-2024", "title":"Fighter", "year":"2024", "genre":"Action, Thriller", "link":"https://example.com/fighter", "poster":"https://upload.wikimedia.org/wikipedia/en/5/5d/Fighter_film_teaser.jpg"},
+
+{"id":"Pathaan-2023", "title":"Pathaan", "year":"2023", "genre":"Action, Spy", "link":"https://example.com/pathaan", "poster":"https://upload.wikimedia.org/wikipedia/en/f/f0/Pathaan_film_poster.jpg"},
+
+{"id":"Tiger3-2023", "title":"Tiger 3", "year":"2023", "genre":"Action, Thriller", "link":"https://example.com/tiger3", "poster":"https://upload.wikimedia.org/wikipedia/en/9/90/Tiger_3_film_poster.jpg"},
+
+{"id":"Dunki-2023", "title":"Dunki", "year":"2023", "genre":"Drama, Comedy", "link":"https://example.com/dunki", "poster":"https://upload.wikimedia.org/wikipedia/en/4/45/Dunki_film_poster.jpg"},
+
+{"id":"Gadar2-2023", "title":"Gadar 2", "year":"2023", "genre":"Action, Drama", "link":"https://example.com/gadar2", "poster":"https://upload.wikimedia.org/wikipedia/en/c/c2/Gadar_2_film_poster.jpg"},
+
+{"id":"OMG2-2023", "title":"OMG 2", "year":"2023", "genre":"Comedy, Drama", "link":"https://example.com/omg2", "poster":"https://upload.wikimedia.org/wikipedia/en/9/9e/OMG_2_poster.jpg"},
+
+{"id":"SatyapremKiKatha-2023", "title":"Satyaprem Ki Katha", "year":"2023", "genre":"Romance, Drama", "link":"https://example.com/satyapremkikatha", "poster":"https://upload.wikimedia.org/wikipedia/en/7/74/Satyaprem_Ki_Katha_film_poster.jpg"}
 ]
