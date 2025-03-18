@@ -1,17 +1,18 @@
 [
-  {"id":"1","title":"KGF Chapter 2","year":"2022","genre":"Action, Thriller","link":"https://example.com/kgf2","poster":""},
-  {"id":"2","title":"Animal","year":"2023","genre":"Action, Drama","link":"https://example.com/animal","poster":""},
-  {"id":"3","title":"Pathaan","year":"2023","genre":"Action, Spy Thriller","link":"https://example.com/pathaan","poster":""},
-  {"id":"4","title":"Jawan","year":"2023","genre":"Action, Drama","link":"https://example.com/jawan","poster":""},
-  {"id":"5","title":"Salaar","year":"2023","genre":"Action, Adventure","link":"https://example.com/salaar","poster":""},
-  {"id":"6","title":"Dunki","year":"2023","genre":"Comedy, Drama","link":"https://example.com/dunki","poster":""},
-  {"id":"7","title":"Fighter","year":"2024","genre":"Action, War","link":"https://example.com/fighter","poster":""},
-  {"id":"8","title":"Tiger 3","year":"2023","genre":"Action, Thriller","link":"https://example.com/tiger3","poster":""},
-  {"id":"9","title":"Pushpa 2: The Rule","year":"2024","genre":"Action, Drama","link":"https://example.com/pushpa2","poster":""},
-  {"id":"10","title":"Leo","year":"2023","genre":"Action, Thriller","link":"https://example.com/leo","poster":""},
-  {"id":"11","title":"Avengers: New Dawn","year":"2025","genre":"Action, Sci-Fi","link":"https://example.com/avengers-new-dawn","poster":""},
-  {"id":"12","title":"Midnight Desires","year":"2025","genre":"Romance, Drama","link":"https://example.com/midnight-desires","poster":""},
-  {"id":"13","title":"The Sensualist","year":"2025","genre":"Erotic Thriller","link":"https://example.com/the-sensualist","poster":""},
-  {"id":"14","title":"Forbidden Passions","year":"2025","genre":"Romance, Drama","link":"https://example.com/forbidden-passions","poster":""},
-  {"id":"15","title":"Eclipse of Love","year":"2025","genre":"Romantic Sci-Fi","link":"https://example.com/eclipse-of-love","poster":""}
+{
+"id": "1",
+"title": "KGF Chapter 2",
+"year": "2022",
+"genre": "Action, Thriller",
+"link": "https://example.com/kgf2",
+"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmU2ivaxO1D3o4txDVcHEEvjjjY8XdnkF9qg&usqp=CAU"
+},
+{
+"id": "2",
+"title": "Animal",
+"year": "2023",
+"genre": "Action, Drama",
+"link": "https://example.com/animal",
+"poster": "https://i.ytimg.com/vi/Xbizke4zftY/maxresdefault.jpg"
+}
 ]
